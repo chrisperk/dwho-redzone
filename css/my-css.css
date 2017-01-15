@@ -1,0 +1,19 @@
+#stream-display-canvas {
+    position: relative;
+    top: 80px;
+}
+
+.stream-display-section {
+    width: 400px;
+    height: 200px;
+}
+
+#stream-selector {
+    position: fixed;
+    right: 20px;
+}
+
+#active-streams-list {
+    list-style-type: none;
+    text-align: center;
+}
